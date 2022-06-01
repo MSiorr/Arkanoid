@@ -3,6 +3,8 @@
 
 Simple copy of Arkanoid - school project
 
+![look](img/look.png)
+
 
 ##  Introduction
 
