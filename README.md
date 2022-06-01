@@ -10,7 +10,7 @@ The goal of the game is to destroy all bricks.
 
 ## Notes
 
-The game has basic mechanics. 
+The game has only a few basic mechanics
 
 To play, you must first create a level and load it.
 
