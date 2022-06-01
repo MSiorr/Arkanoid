@@ -6,7 +6,7 @@ Simple copy of Arkanoid game
 ![look](img/look.png)
 
 
-##  Introduction
+##  Overall info
 
 The goal of the game is to destroy all bricks.
 
