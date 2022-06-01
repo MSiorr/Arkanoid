@@ -4,20 +4,22 @@
 Simple copy of Arkanoid - school project
 
 
-
 ##  Introduction
 
 The goal of the game is to destroy all bricks.
-## Installation
 
- - Clone/download repository
- - Run `index.html` with the server (e.g. Live Server) 
-    
 ## Notes
 
 The game has basic mechanics. 
 
 To play, you must first create a level and load it.
+
+## Installation
+
+ - Clone/download repository
+ - Run `index.html` with the server (e.g. Live Server) 
+    
+
 ## Features
 
 - Map Creator:
@@ -28,7 +30,6 @@ To play, you must first create a level and load it.
 - Random game backgrounds
 - Collision system
 - Shadows
-
 
 
 ## Controls
