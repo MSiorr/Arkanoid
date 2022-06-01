@@ -1,7 +1,7 @@
 
 # Arkanoid
 
-Simple copy of Arkanoid
+Simple copy of Arkanoid game
 
 ![look](img/look.png)
 
@@ -18,7 +18,7 @@ To play, you must first create a level and load it.
 
 ## Installation
 
- - Clone/download repository
+ - Clone/download the repository
  - Run `index.html` with the server (e.g. Live Server) 
     
 
