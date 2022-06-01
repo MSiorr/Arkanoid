@@ -9,7 +9,9 @@ Simple copy of Arkanoid game
 ##  Overall info
 
 The goal of the game is to destroy all bricks.
+
 The game has only a few basic mechanics
+
 To play, you must first create a level and load it.
 
 ## Installation
