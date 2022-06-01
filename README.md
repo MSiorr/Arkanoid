@@ -3,7 +3,7 @@
 
 Simple copy of Arkanoid - school project
 
-![look](screenshots/look.png)
+![look](img/look.png)
 
 
 ##  Introduction
