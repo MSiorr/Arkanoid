@@ -3,7 +3,7 @@
 
 Simple copy of Arkanoid game
 
-![look](img/look.png)
+![obraz](https://user-images.githubusercontent.com/49323088/171882046-6be10c10-6d4b-4801-93c0-da2ed0418660.png)
 
 ### Test it now 
 **👉 https://msiorr.github.io/Projects/Arkanoid/ 👈**
