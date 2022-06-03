@@ -6,7 +6,7 @@ Simple copy of Arkanoid game
 ![look](img/look.png)
 
 ### Test it now 
-**👉 [https://msiorr.github.io/Projects/15-Puzzle/](https://msiorr.github.io/Projects/Arkanoid/) 👈**
+**👉 https://msiorr.github.io/Projects/Arkanoid/ 👈**
 
 
 ##  Overall info
